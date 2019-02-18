@@ -14,7 +14,7 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "EPFL SoOpen 2018"
+title:       "EPFL SoOpen 2019"
 keywords:    "EPFL, scitas, library, course, coding, documentation"
 description: "A course about good coding pratice at EPFL organized by SCITAS and EPFL Library"
 source_link: "https://github.com/epfl-scitas/SoOpen"
